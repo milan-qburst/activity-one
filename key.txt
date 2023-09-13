@@ -2,5 +2,6 @@ hello
 this is a test
 bye
 this is a configure method
+part 3
 
 
